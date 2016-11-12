@@ -1,0 +1,147 @@
+* {
+	background-color: white;
+	color: #C0B283;
+}
+
+/* main page start */
+
+.page-header {
+	margin-top: 0px;
+}
+
+h1 {
+	font-family: Open Sans Condensed;
+	color: #C0B283;
+	font-weight: bold;
+	margin: 0 auto;
+	margin-bottom: 0px;
+	font-size: 40px;
+	text-align: center;
+	border-top: 15px solid #414141;
+	border-bottom: 15px solid #414141;
+	padding-top: 18px;
+	padding-bottom: 15px;
+	letter-spacing: 1px;
+}
+
+.navbar .nav > li > a, .navbar .nav > li > a:link {
+	color: #414141;
+    font-family: Trochut;
+    font-size: 20px;
+    margin-top: 10px;
+    text-decoration: none;
+    letter-spacing: 1px;
+    float: none;
+    padding-bottom: 20px;
+}
+
+.navbar .nav > li > a, .navbar .nav > li > a:visited {
+    color: #414141;
+    text-decoration: none;
+}
+    
+.navbar .nav > li > a, .navbar .nav > li > a:hover {
+    color: #C0B283;
+    text-decoration: underline;
+}
+
+h2 {
+	color: #6E3667;
+	font-family: Arial;
+	background-color: white;
+	font-family: Oleo Script Swash Caps;
+	font-style: italic;
+	text-align: center;
+}
+
+.jumbotron {
+	background-color: white;
+	text-align: center;
+	border: 10px solid #DCD0C0;
+	background-image: url("paint.jpg");
+
+}
+
+img {
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+#portfoliolink {
+	background-color: white;
+	color: #C0B283;
+	font-family: Trochut;
+	border-color: #414141;
+}
+
+#portfoliolink:hover {
+	background-color: #DCD0C0;
+	color: #414141;
+}
+
+#footer {
+	background-color: white;
+	font-family: Oleo Script Swash Caps;
+	text-align: center;
+	padding-top: 10px;
+	color: grey;
+}
+
+#backgroundimage {
+	background-size: 100%;
+}
+
+/*main page end*/
+
+/*contact page start*/
+
+.form-horizontal {
+	width: 100%;
+}
+
+form {
+	margin-left: 300px;
+	margin-right: 300px;
+	border: 10px solid #DCD0C0;
+	padding-right: 40px;
+	padding-left: 40px;
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+
+#submit {
+	color: #C0B283;
+}
+
+#submit:hover {
+	background-color: #DCD0C0;
+	color: #414141;
+}
+
+#footer3 {
+	background-color: white;
+	font-family: Oleo Script Swash Caps;
+	text-align: center;
+	padding-top: 10px;
+	font-size: 10px;
+}
+
+/*contact page ends */
+
+#footer2 {
+	background-color: white;
+	font-family: Oleo Script Swash Caps;
+	text-align: center;
+	padding-top: 10px;
+	font-size: 10px;
+}
+
+
+
+
+
+
+
+
+
+
